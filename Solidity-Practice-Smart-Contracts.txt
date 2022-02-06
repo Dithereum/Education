@@ -1,0 +1,9 @@
+Please make a following smart contract, where user place bet and if he win will get all the DTH from the smart contract, if lose then he will lose it bet amount. 
+Following is the specific details.
+
+=> user will place a bet.  
+=> User have to pay 0.01 ETH.
+=> Generate random numbers between 1-10
+=> If the random number is less than 5, then user will win. And user will get all the ETH withdrawn to his wallet.
+=> If the random number is more than or equal to 5, he will lose. and will lose the ether he paid to contract.
+=> keep records of all the bets placed. This includes. better wallet, amount, win/lose status. We should be able to input bet unique ID and be able to read this information.
